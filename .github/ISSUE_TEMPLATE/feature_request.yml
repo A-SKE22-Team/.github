@@ -20,8 +20,6 @@ body:
       label: "🎯 Use Case"
       description: "Why is this feature needed? What problem does it solve?"
       placeholder: "Describe the problem this feature would solve"
-    validations:
-      required: true
 
   - type: textarea
     id: proposed_solution
