@@ -27,9 +27,3 @@ body:
       label: "💡 Proposed Solution"
       description: "How would you like to see this feature implemented?"
       placeholder: "Explain your vision for the implementation"
-
-  - type: textarea
-    id: additional_notes
-    attributes:
-      label: "📝 Additional Notes"
-      description: "Add any other context or sketches/designs here"
