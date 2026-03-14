@@ -31,13 +31,6 @@ body:
       placeholder: "Explain your vision for the implementation"
 
   - type: textarea
-    id: alternatives
-    attributes:
-      label: "🔄 Alternatives Considered"
-      description: "Have you considered other solutions or approaches?"
-      placeholder: "Mention any alternatives you’ve considered"
-
-  - type: textarea
     id: additional_notes
     attributes:
       label: "📝 Additional Notes"
